@@ -5,6 +5,7 @@ In this repository we explore the topic of Multi Armed Bandits and A/B Testing u
 > **Papers and Articles:** </br>
 > 1. [Multi Armed Bandit vs. A/B Tests in E-commerce - Confidence Interval and Hypothesis Test Power Perspectives](https://dl.acm.org/doi/abs/10.1145/3534678.3539144)
 > 2. [Online Experimentation: Benefits, Operational and Methodological Challenges, and Scaling Guide](https://hdsr.mitpress.mit.edu/pub/aj31wj81/release/1)
+> 3. [Peeking at A/B Tests: Why it matters, and what to do about it](https://dl.acm.org/doi/abs/10.1145/3097983.3097992)
 
 > **Books** </br>
 > 1. [Reinforcement Learning: An Introduction](http://incompleteideas.net/book/the-book-2nd.html) </br>
